@@ -2,7 +2,7 @@
 
 ##  Overview
 This project focuses on **cleaning and analyzing the HR Employee Attrition dataset**.  
-The dataset contains demographic, job-related, and attrition information about employees.
+The dataset contains demographic, job related, and attrition information about employees.
 
 ###  Objectives
 - Clean the dataset (handle missing values, duplicates, inconsistent data).
