@@ -43,8 +43,5 @@ The dataset contains demographic, job related, and attrition information about e
 
 ---
 
-##  Next Steps
-- Perform correlation and statistical analysis.
-- Train ML models to **predict employee attrition**.
-- Explore feature importance to understand drivers of attrition.
+
 
